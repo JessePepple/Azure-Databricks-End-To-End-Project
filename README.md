@@ -203,12 +203,6 @@ After successfully completing the Dimensional Tables, I created the Fact Table a
 <img width="1440" height="719" alt="Screenshot 2025-10-27 at 14 12 52" src="https://github.com/user-attachments/assets/8660479f-ac33-4412-961f-32ad994b77fb" />
 
 
-<img width="1440" height="719" alt="Screenshot 2025-10-27 at 14 13 13" src="https://github.com/user-attachments/assets/3629d95d-6ffe-4919-b994-ed94cc242ac7" />
-
-
-<img width="1440" height="719" alt="Screenshot 2025-10-27 at 14 14 03" src="https://github.com/user-attachments/assets/e6e7f465-e3a2-4db5-b8d9-9a58f498fe75" />
-
-
 
 ## DATABRICKS SQL DATA WAREHOUSE
 
