@@ -1,12 +1,35 @@
 This project is built entirely on Azure Databricks, leveraging the power of Spark Structured Streaming for real-time data ingestion and PySpark for large-scale data transformations. It further incorporates Delta Live Tables to automate the management of Slowly Changing Dimensions (SCDs), ensuring data consistency and reliability. The project concludes with the implementation of dynamic dimensional modeling, delivering well-curated and analytics-ready datasets.
 
-Azure Services
-Azure Databricks
-Spark Structured Streaming
-Delta Live Tables
-Delta Lake & Delta Tables
-Databricks SQL Warehouse
-Unity Catalog
+Resources
+
+
+
+
+
+Azure Services 
+
+
+
+Azure Databricks 
+
+
+
+Spark Structured Streaming 
+
+
+
+Delta Live Tables Delta Lake & Delta Tables 
+
+
+
+Databricks SQL Warehouse 
+
+
+
+Unity Catalog 
+
+
+
 Languages & Tools: Python (PySpark / notebooks) SQL
 
 <img width="1444" height="902" alt="DBDATA" src="https://github.com/user-attachments/assets/617df215-7178-404b-bbd3-f8cfddd2cc47" />
