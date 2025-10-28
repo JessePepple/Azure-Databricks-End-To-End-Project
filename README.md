@@ -110,6 +110,8 @@ As shown in the images with the rows, these are rows from the first run below ar
 
 <img width="763" height="48" alt="Screenshot 2025-10-25 at 07 58 57" src="https://github.com/user-attachments/assets/1dddfb61-26b3-4e3f-86df-61b817f63752" />
 
+<img width="765" height="53" alt="Screenshot 2025-10-27 at 13 02 38" src="https://github.com/user-attachments/assets/d48d3735-59ea-4d6d-9904-c8aba7196a5a" />
+
 
 The Job Pipeline and Incremental Load was overwritten and successfully stored in the Staging Layer thus concluding the first phase of our Databricks End To End Project
 <img width="1440" height="726" alt="Screenshot 2025-10-25 at 07 47 56" src="https://github.com/user-attachments/assets/fce7dcad-71a5-4b00-a551-b03c070ddcfc" />
