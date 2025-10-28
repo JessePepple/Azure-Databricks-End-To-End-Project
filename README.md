@@ -234,12 +234,7 @@ Once our curated and enriched datasets were stored in Databricks SQL Warehouse, 
 <img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 19 40" src="https://github.com/user-attachments/assets/4e7fa4d9-c7ff-48fd-85d4-cabe97daeddc" />
 <img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 22 26" src="https://github.com/user-attachments/assets/1ef1ecef-6ac3-4188-a910-09cd848c9058" />
 <img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 38 01" src="https://github.com/user-attachments/assets/8925bd78-19e0-4b23-89c1-bb57db134c2e" />
-<img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 38 19" src="https://github.com/user-attachments/assets/53a8ce86-f2ce-43be-ac8a-4c851acd1cfa" />
 
-
-
-<img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 40 26" src="https://github.com/user-attachments/assets/1601eafe-9ce5-45c3-ad26-9cb8bb01594b" />
-<img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 40 53" src="https://github.com/user-attachments/assets/6d425475-9555-4627-a974-742e9b4d7b1b" />
 <img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 41 11" src="https://github.com/user-attachments/assets/effc35e8-be73-43ea-b588-baf7501e4890" />
 <img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 48 14" src="https://github.com/user-attachments/assets/e1ea11c3-9d73-4932-bc80-0bb3cdf85a44" />
 <img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 52 51" src="https://github.com/user-attachments/assets/3ff0d51a-8ce1-47a1-aad4-34b46618a9a7" />
