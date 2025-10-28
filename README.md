@@ -226,6 +226,10 @@ Once our curated and enriched datasets were stored in Databricks SQL Warehouse, 
 <img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 52 51" src="https://github.com/user-attachments/assets/3ff0d51a-8ce1-47a1-aad4-34b46618a9a7" />
 <img width="1440" height="718" alt="Screenshot 2025-10-28 at 10 55 36" src="https://github.com/user-attachments/assets/343adec3-339a-4ce2-ad3d-ab6b573086f9" />
 
+Lessons To Take From It
+
+*. Although dynamic notebook is amazing and without a doubt I will always reuse it for creating my dimension tables, DLT is still a big player for its automation and will be considered for my arsenal
+
 
 
 
