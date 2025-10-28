@@ -190,7 +190,7 @@ For the curated Gold layer, I implemented a Dynamic Dimensional Model for our ta
 
 
 
-
+Dynamic Notebook WorkFlow Video Available here ->  https://www.jesseportfolio.co.uk/post/azure-end-to-end-databricks-project
 
 
 
