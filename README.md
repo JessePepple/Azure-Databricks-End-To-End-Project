@@ -34,6 +34,8 @@ Languages & Tools: Python (PySpark / notebooks) SQL
 
 <img width="1444" height="902" alt="DBDATA" src="https://github.com/user-attachments/assets/617df215-7178-404b-bbd3-f8cfddd2cc47" />
 
+
+For the detailed Storytelling of this project please visit this link:  https://www.jesseportfolio.co.uk/post/azure-end-to-end-databricks-project
 ## Creating External Locations
 To kickstart the project, I provisioned the Azure Databricks workspace. Since Unity Catalog was already enabled, I proceeded to create external locations for the Medallion Architecture layers — Bronze, Silver, and Gold — along with a source container that holds our ingested data.
 <img width="1440" height="721" alt="Screenshot 2025-10-25 at 05 51 52" src="https://github.com/user-attachments/assets/20681df1-1969-432a-85cf-bb7d3ad7eed9" />
